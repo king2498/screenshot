@@ -1,0 +1,26 @@
+{
+  "name": "screenshot",
+  "version": "1.0.0",
+  "description": "基于nodejs实现截图服务",
+  "main": "./scr/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ./scr/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/king2498/screenshot.git"
+  },
+  "keywords": [
+    "screenshot"
+  ],
+  "author": "yj",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  },
+  "bugs": {
+    "url": "https://github.com/king2498/screenshot/issues"
+  },
+  "homepage": "https://github.com/king2498/screenshot#readme"
+}
